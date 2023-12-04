@@ -1,6 +1,6 @@
 ﻿
 
-using AdventOfCode.Day3;
+using AdventOfCode.Day4;
 
 var result = new Solution().Execute();
 
