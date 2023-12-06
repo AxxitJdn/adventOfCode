@@ -1,8 +1,4 @@
-﻿
-
-using AdventOfCode.Day4;
-
-namespace AdventOfCode.Day5;
+﻿namespace AdventOfCode.Day5;
 
 public record struct Seed ( long id, long range );
 
